@@ -3,9 +3,9 @@ module github.com/kamalyes/go-scope-provider
 go 1.25.1
 
 require (
-	github.com/kamalyes/go-sqlbuilder v0.5.0
+	github.com/kamalyes/go-sqlbuilder v0.5.1
 	github.com/stretchr/testify v1.11.1
-	google.golang.org/grpc v1.81.0
+	google.golang.org/grpc v1.81.1
 )
 
 require (
@@ -14,14 +14,14 @@ require (
 	github.com/go-sql-driver/mysql v1.8.1 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.5 // indirect
-	github.com/kamalyes/go-argus v0.2.0 // indirect
-	github.com/kamalyes/go-logger v0.5.2 // indirect
-	github.com/kamalyes/go-toolbox v0.15.1 // indirect
+	github.com/kamalyes/go-argus v0.2.1 // indirect
+	github.com/kamalyes/go-logger v0.5.3 // indirect
+	github.com/kamalyes/go-toolbox v0.15.3 // indirect
 	github.com/lib/pq v1.10.9 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rogpeppe/go-internal v1.14.1 // indirect
 	golang.org/x/net v0.51.0 // indirect
-	golang.org/x/sys v0.42.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 	golang.org/x/text v0.34.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260226221140-a57be14db171 // indirect
 	google.golang.org/protobuf v1.36.11 // indirect
