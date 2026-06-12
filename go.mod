@@ -3,7 +3,7 @@ module github.com/kamalyes/go-scope-provider
 go 1.25.1
 
 require (
-	github.com/kamalyes/go-sqlbuilder v0.5.3
+	github.com/kamalyes/go-sqlbuilder v0.5.4
 	github.com/stretchr/testify v1.11.1
 	google.golang.org/grpc v1.81.1
 )
